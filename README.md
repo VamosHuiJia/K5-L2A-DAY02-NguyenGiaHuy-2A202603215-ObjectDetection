@@ -34,7 +34,7 @@ Sau lab, bạn có thể:
 | 4 | [GUIDELINE_MINI.md](GUIDELINE_MINI.md) | Mẫu guideline cá nhân **bạn phải điền** | Điền **trước** khi gán nhãn (CP1) |
 | 5 | [RUBRIC.md](RUBRIC.md) | Tiêu chí chấm điểm và mức chất lượng | Đọc trước khi làm để biết cần đạt gì |
 | 6 | [SUBMISSION.md](SUBMISSION.md) | Cách đặt tên repo, cấu trúc nộp, xử lý kết quả Colab | Đối chiếu **trước khi nộp** |
-| 7 | [report/individual/MSSV_HoTen.md](report/individual/MSSV_HoTen.md) | Mẫu báo cáo cá nhân | Điền **cuối cùng**, tập hợp kết quả |
+| 7 | [report/individual/2A202603215_NguyenGiaHuy.md](report/individual/2A202603215_NguyenGiaHuy.md) | Mẫu báo cáo cá nhân | Điền **cuối cùng**, tập hợp kết quả |
 
 > Mẹo: đọc 1–3 và 5 trước buổi lab để nắm rõ ràng phải làm và chấm; điền 4 (guideline) trong buổi; đối chiếu 6 và điền 7 ở giai đoạn nộp.
 
