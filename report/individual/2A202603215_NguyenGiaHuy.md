@@ -4,11 +4,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
+- Họ tên: Nguyễn Gia Huy
+- MSSV: 2A202603215
+- Email: giahuy20092004@gmail.com
+- Lớp: L2A
+- Link repo bài làm: https://github.com/VamosHuiJia/K5-L2A-DAY02-NguyenGiaHuy-2A202603215-ObjectDetection.git
 - Link Colab đã chạy:
 
 ## 2. Schema và mini guideline
